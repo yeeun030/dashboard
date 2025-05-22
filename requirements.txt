@@ -1,5 +1,4 @@
-1 streamlit
-2 pandas
-3 plotly
-4 statsmodels
-5
+streamlit
+pandas
+plotly
+statsmodels
